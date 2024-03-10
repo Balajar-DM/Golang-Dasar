@@ -1,1 +1,3 @@
-Golang Dasar
+# Golang Basic
+
+Learn Repository Go Lang Basic
